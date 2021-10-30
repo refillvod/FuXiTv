@@ -1,3 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="http://latinolite.xyz:8080/images/e9a5213a49518ff2b527f87ca1168f42.png" group-title="todos los canales",CINECANAL
 http://209.145.61.4:25461/4EKdvhjbyJ/LStofBeVju/1
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="http://latinolite.xyz:8080//images/b186270f01ff1f6dbde9a9565b471928.png" group-title="todos los canales",HBO PLUS
+http://209.145.61.4:25461/4EKdvhjbyJ/LStofBeVju/9
